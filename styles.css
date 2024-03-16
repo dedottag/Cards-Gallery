@@ -60,7 +60,7 @@ body {
   }
   .slide {
     height: 5vh;
-    margin: 5px;
+    margin: 15px;
     border-radius: 5px;
   }
   .slide.active {
